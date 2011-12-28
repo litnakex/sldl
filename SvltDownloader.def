@@ -1,0 +1,2 @@
+//{$DEFINE MFRA_FRONT} // 最终的ismv文件中将mfra部分放在文件头部
+{$DEFINE RM_MERGED_PART} // 删除已merge的分片文件
